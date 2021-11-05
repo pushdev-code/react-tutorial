@@ -4,8 +4,8 @@
 ## Topics:
 
 * [Syntax and Basic Constructs](1-syntax-and-basics)
-* [Create react app](2-create-react-app)
-* [Using JSX](3-using-jsx)
+* [Using JSX](2-using-jsx)
+* [Create react app](3-create-react-app)
 * [Functional Components](4-functional-components)
 * [Class Components](5-class-components)
 * [Props vs Store](6-props-vs-store)
