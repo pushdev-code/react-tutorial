@@ -104,7 +104,7 @@ It will be discussed deeper in the next section.
 
 ```js
 class Counter extends React.Component {
-  /* you must use the constructor and super keyword since we need to access and call functions on an object's parent.  */
+  /* you must use the constructor and super keyword since we need to access and call functions on an object's parent. */
  constructor(props) {
    super(props);
    // here we initialize our state object
