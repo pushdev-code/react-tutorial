@@ -241,3 +241,4 @@ You should run any cleanup in `componentWillUnmount`. For example invalidating t
 - [React lifecycle methods diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [React.Component](https://reactjs.org/docs/react-component.html)
 - [React lifecycle](https://www.w3schools.com/react/react_lifecycle.asp#:~:text=Each%20component%20in%20React%20has,Mounting%2C%20Updating%2C%20and%20Unmounting.)
+- [Epic React](https://epicreact.dev/learn)
