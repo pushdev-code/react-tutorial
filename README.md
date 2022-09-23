@@ -8,7 +8,7 @@
 * [Create react app](3-create-react-app)
 * [Functional Components](4-functional-components)
 * [Class Components](5-class-components)
-* [Props vs Store](6-props-vs-store)
+* [Props vs State](6-props-vs-state)
 * [Conditional rendering](7-conditional-rendering)
 * [Component Lifecycle](8-component-lifecycle)
 * [Basic Hooks](9-basic-hooks)
