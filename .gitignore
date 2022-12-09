@@ -1,1 +1,5 @@
 solutions/
+node_modules
+bundle.css
+bundle.js
+**/.map
