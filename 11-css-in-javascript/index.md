@@ -1,6 +1,6 @@
 # CSS In Javascript
 
-There are several different ways to style React applications. The most common are:
+There are different ways to style React applications. The most common are:
 
 - Vanilla CSS.
 - CSS Modules.
@@ -72,7 +72,7 @@ import './style.scss';
 ## CSS Modules
 
 CSS Modules generates unique CSS class names.
-CSS Modules can be used with Vanilla CSS and with Sass.
+CSS Modules can be used with Vanilla CSS and Sass.
 
 Import your styles and use them as a styles object.
 

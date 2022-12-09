@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../src/styles.module.css"],
-  "sourcesContent": ["body {\n\tfont-family: Georgia, 'Times New Roman', Times, serif;\n\tbackground-color: blueviolet;\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n\theight: 100vh;\n}\n\n.title {\n\ttext-align: center;\n\tcolor: white;\n}\n\n.todo-container {\n\tdisplay: block;\n\twidth: auto;\n\tborder-radius: 0.4rem;\n\tpadding: 2rem;\n\tbackground-color: white;\n\tmargin: 0 auto;\n}\n\n.form {\n\tdisplay: flex;\n}\n\n.form__button--add {\n\tmargin-left: 0.2rem;\n\tcursor: pointer;\n}\n\n.todo {\n\tborder: 1px solid black;\n\tborder-radius: 0.2rem;\n\tpadding: 0.4rem;\n\tdisplay: flex;\n\tjustify-content: space-between;\n}\n\n.todo {\n\tmargin-top: 1rem;\n}\n\n.todo__button {\n\tcursor: pointer;\n}\n"],
-  "mappings": "AAAA,KACC,gDACA,yBACA,aACA,mBACA,uBACA,aAGD,OACC,kBACA,WAGD,gBACC,cACA,WAhBD,iCAmBC,sBAnBD,cAuBA,MACC,aAGD,mBACC,kBACA,eAGD,MACC,uBAjCD,kCAoCC,aACA,8BAGD,MACC,gBAGD,cACC",
-  "names": []
-}

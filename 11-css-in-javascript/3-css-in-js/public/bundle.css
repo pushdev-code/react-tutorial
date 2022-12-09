@@ -1,2 +1,0 @@
-body{font-family:Georgia,Times New Roman,Times,serif;background-color:#8a2be2;display:flex;align-items:center;justify-content:center;height:100vh}.title{text-align:center;color:#fff}.todo-container{display:block;width:auto;border-radius:.4rem;padding:2rem;background-color:#fff;margin:0 auto}.form{display:flex}.form__button--add{margin-left:.2rem;cursor:pointer}.todo{border:1px solid black;border-radius:.2rem;padding:.4rem;display:flex;justify-content:space-between}.todo{margin-top:1rem}.todo__button{cursor:pointer}
-/*# sourceMappingURL=bundle.css.map */
