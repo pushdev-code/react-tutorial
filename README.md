@@ -13,7 +13,6 @@
 * [Component Lifecycle](8-component-lifecycle)
 * [Basic Hooks](9-basic-hooks)
 * [CSS Preprocessors - SASS](10-css-preprocessors)
-* [CSS In Javascript](11-css-in-javascript)
-* [Styled Components](12-styled-components)
+* [CSS In Javascript - Styled Components](11-css-in-javascript)
 * [React testing Library](13-react-testing-library)
 
